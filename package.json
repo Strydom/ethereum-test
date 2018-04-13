@@ -1,0 +1,12 @@
+{
+  "name": "ethereum-test",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "npm": "^5.8.0",
+    "web3": "^1.0.0-beta.33"
+  }
+}
